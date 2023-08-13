@@ -22,7 +22,6 @@
         <module>demos</module>
         <module>facade</module>
     </modules>
-
     <profiles>
         <!--本地环境-->
         <profile>
